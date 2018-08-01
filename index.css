@@ -24,7 +24,6 @@ main {
 }
 
 footer {
-  flex-direction: column;
   background-color: red;
   height: 100%;
   width: 100%;
