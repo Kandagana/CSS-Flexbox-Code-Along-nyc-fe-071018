@@ -18,6 +18,7 @@ header {
 }
 
 main {
+  flex-flow: row wrap;
   display: flex;
   background-color: white;
   width: 100%;
